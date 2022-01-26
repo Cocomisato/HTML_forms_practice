@@ -1,0 +1,17 @@
+label,input{
+    display:flex;
+    flex-direction:column;
+  }
+
+  #Message {
+      height: 300px;
+      width: 1000px;
+  }
+
+  #Email {
+      width: 1000px;
+  }
+
+  #name {
+      width: 1000px;
+  }
